@@ -23,7 +23,7 @@ python app.py
 
 
 # Started to hook up smart contract. Will do later.
-https://urldefense.com/v3/__https://api.etherscan.io/api?module=contract&action=getabi&address=0x388c818ca8b9251b393131c08a736a67ccb19297__;!!BeImMA!5T0ovbqVUi2-N7wdxoYg9o2IgMIOI0EFODPkMvtJLqpmUgULfc7bxP8wtHd6LWw6LwBaqAZuHcWLu0r2GSNYc4qrXd4$
+https://api.etherscan.io/api?module=contract&action=getabi&address=0x388c818ca8b9251b393131c08a736a67ccb19297__;!!BeImMA!5T0ovbqVUi2-N7wdxoYg9o2IgMIOI0EFODPkMvtJLqpmUgULfc7bxP8wtHd6LWw6LwBaqAZuHcWLu0r2GSNYc4qrXd4$
 
 
 
